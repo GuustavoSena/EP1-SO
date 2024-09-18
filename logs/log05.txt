@@ -1,0 +1,149 @@
+Carregando TESTE-7
+Carregando TESTE-4
+Carregando TESTE-8
+Carregando TESTE-9
+Carregando TESTE-6
+Carregando TESTE-5
+Carregando TESTE-10
+Carregando TESTE-2
+Carregando TESTE-3
+Carregando TESTE-1
+Executando TESTE-7
+E/S iniciada em TESTE-7
+Interrompendo TESTE-7 apos 4 Instrucoes
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Interrompendo TESTE-4 apos 2 Instrucoes
+Executando TESTE-8
+Interrompendo TESTE-8 apos 5 Instrucoes
+TESTE-7 retornando da E/S para a fila de prontos
+Executando TESTE-7
+Interrompendo TESTE-7 apos 5 Instrucoes
+TESTE-4 retornando da E/S para a fila de prontos
+Executando TESTE-7
+E/S iniciada em TESTE-7
+Interrompendo TESTE-7 apos 4 Instrucoes
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Interrompendo TESTE-4 apos 2 Instrucoes
+Executando TESTE-9
+E/S iniciada em TESTE-9
+Interrompendo TESTE-9 apos 3 Instrucoes
+TESTE-7 retornando da E/S para a fila de prontos
+Executando TESTE-7
+TESTE-7 terminado. X=12. Y=3
+TESTE-4 retornando da E/S para a fila de prontos
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Interrompendo TESTE-4 apos 2 Instrucoes
+TESTE-9 retornando da E/S para a fila de prontos
+Executando TESTE-8
+Interrompendo TESTE-8 apos 5 Instrucoes
+Executando TESTE-9
+Interrompendo TESTE-9 apos 5 Instrucoes
+TESTE-4 retornando da E/S para a fila de prontos
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Interrompendo TESTE-4 apos 2 Instrucoes
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Interrompendo TESTE-6 apos 4 Instrucoes
+Executando TESTE-8
+Interrompendo TESTE-8 apos 5 Instrucoes
+TESTE-4 retornando da E/S para a fila de prontos
+Executando TESTE-9
+Interrompendo TESTE-9 apos 5 Instrucoes
+TESTE-6 retornando da E/S para a fila de prontos
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Interrompendo TESTE-4 apos 3 Instrucoes
+Executando TESTE-8
+Interrompendo TESTE-8 apos 5 Instrucoes
+Executando TESTE-9
+E/S iniciada em TESTE-9
+Interrompendo TESTE-9 apos 1 instrucao
+TESTE-4 retornando da E/S para a fila de prontos
+Executando TESTE-6
+Interrompendo TESTE-6 apos 5 Instrucoes
+Executando TESTE-4
+TESTE-4 terminado. X=91. Y=5
+TESTE-9 retornando da E/S para a fila de prontos
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Interrompendo TESTE-5 apos 2 Instrucoes
+Executando TESTE-10
+E/S iniciada em TESTE-10
+Interrompendo TESTE-10 apos 5 Instrucoes
+Executando TESTE-8
+TESTE-8 terminado. X=1. Y=3
+TESTE-5 retornando da E/S para a fila de prontos
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Interrompendo TESTE-6 apos 2 Instrucoes
+TESTE-10 retornando da E/S para a fila de prontos
+Executando TESTE-9
+TESTE-9 terminado. X=0. Y=0
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Interrompendo TESTE-2 apos 5 Instrucoes
+TESTE-6 retornando da E/S para a fila de prontos
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Interrompendo TESTE-5 apos 2 Instrucoes
+Executando TESTE-10
+TESTE-10 terminado. X=0. Y=0
+TESTE-2 retornando da E/S para a fila de prontos
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Interrompendo TESTE-6 apos 3 Instrucoes
+TESTE-5 retornando da E/S para a fila de prontos
+Executando TESTE-3
+Interrompendo TESTE-3 apos 5 Instrucoes
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Interrompendo TESTE-2 apos 5 Instrucoes
+TESTE-6 retornando da E/S para a fila de prontos
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Interrompendo TESTE-5 apos 2 Instrucoes
+Executando TESTE-6
+TESTE-6 terminado. X=8. Y=5
+TESTE-2 retornando da E/S para a fila de prontos
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Interrompendo TESTE-1 apos 5 Instrucoes
+TESTE-5 retornando da E/S para a fila de prontos
+Executando TESTE-3
+Interrompendo TESTE-3 apos 5 Instrucoes
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Interrompendo TESTE-2 apos 5 Instrucoes
+TESTE-1 retornando da E/S para a fila de prontos
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Interrompendo TESTE-5 apos 2 Instrucoes
+Reiniciando creditos dos processos
+Executando TESTE-3
+TESTE-3 terminado. X=4. Y=10
+TESTE-2 retornando da E/S para a fila de prontos
+Executando TESTE-2
+Interrompendo TESTE-2 apos 5 Instrucoes
+TESTE-5 retornando da E/S para a fila de prontos
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Interrompendo TESTE-5 apos 2 Instrucoes
+Executando TESTE-2
+TESTE-2 terminado. X=9. Y=1
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Interrompendo TESTE-1 apos 4 Instrucoes
+TESTE-5 retornando da E/S para a fila de prontos
+Executando TESTE-5
+TESTE-5 terminado. X=8. Y=5
+Reiniciando creditos dos processos
+TESTE-1 retornando da E/S para a fila de prontos
+Executando TESTE-1
+TESTE-1 terminado. X=2. Y=10
+MEDIA DE TROCAS: 4.40
+MEDIA DE Instrucoes: 3.16
+QUANTUM: 5
