@@ -206,3 +206,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    # Notebook com começo da analise: https://colab.research.google.com/drive/1f1oTjhXcrlSewJ2zf4piUJ6Ivnbj19RQ#scrollTo=jZCKptiofKnH
